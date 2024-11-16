@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmet Selim.
-- 👀 I’m interested in books, computer games, cryptocurrency technologies, mobil and game programming.
-- 🌱 I’m currently learning python, C# and HTML markup language and SQL database operations.
+- 👀 I’m interested in books, to ride motorcycle, mobil and web programming.
+- 🌱 I’m currently learning javascript, react, kotlin and .NET.
 - 📫 You can reach me on my Linkedin, gmail and social media accounts.
         -Mail: ahmt.selim12@gmail.com
         -Linkedin: https://www.linkedin.com/in/ahmet-selim-kısa-951601177/
